@@ -1,6 +1,6 @@
 # Biosphere3 - 10,000 Sensor Activity Monitoring System
 
-Full-stack .NET 9 web application built as part of the **AI Core Full Stack Coding Work Plan**. Biosphere3 simulates a biosphere habitat monitoring system with 10,000 sensors, featuring CRUD operations, real-time 3D visualization, an AI chatbot, and security hardening.
+Full-stack .NET 9 web application built as part of the **AI Core Full Stack Coding Work Plan**. Biosphere3 simulates a biosphere habitat monitoring system with end buildout of 10,000 sensors, featuring CRUD operations, real-time 3D visualization, an AI chatbot, and security hardening.
 
 ## Tech Stack
 
@@ -120,3 +120,4 @@ All responses include:
 - `Cross-Origin-Resource-Policy: same-origin`
 - `Cross-Origin-Embedder-Policy: require-corp`
 - `RateLimit-Limit` / `RateLimit-Remaining` / `RateLimit-Reset`
+
