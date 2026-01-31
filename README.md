@@ -47,7 +47,7 @@ Full-stack .NET 9 web application built as part of the **AI Core Full Stack Codi
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/TSchimmels/Biosphere3.git
+   git clone https://github.com/TSchimmels/Biosphere3-Sense.git
    cd Biosphere3
    ```
 
